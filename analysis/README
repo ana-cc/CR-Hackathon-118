@@ -1,0 +1,3 @@
+1. python-qlog-plotting is a slightly modified version of https://gitlab.cs.fau.de/sijgdeut/python-qlog-plotting to allow it to work with the logs with have.
+2. AnalyzeQlog python notebook is the code that produced the visualisations in the presentation. It plot cwnd against time with different colored vertical bars for changes in cr_state.
+3. qlog-dancing-baby is the barebones framework for qlog analysis written in rust for us kindly by Lucas. It needs to be developed into something before it can be used to do any plotting.
